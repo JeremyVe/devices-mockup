@@ -2,4 +2,4 @@
   <img src='./mockups-devices.jpg' />
 </p>
 
-#Some flat design devices i did using Sketch
+#Flat design mock-up devices
